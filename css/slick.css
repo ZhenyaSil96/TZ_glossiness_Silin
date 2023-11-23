@@ -1,4 +1,6 @@
 /* Slider */
+
+
 .slick-slider
 {
     position: relative;
@@ -89,7 +91,9 @@
 .slick-slide img
 {
     display: block;
-    width: 100%;
+    width: 432px;
+    height: 288px;
+    padding: 0 7px;
 }
 .slick-slide.slick-loading img
 {
